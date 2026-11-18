@@ -147,6 +147,15 @@ serious work. Design that opening deliberately:
 Take a screenshot of your own first screen at this point. If you would not
 proudly show it to a friend, the design is not done yet.
 
+### 5.1 The phone test
+
+Most judges open an entry on a phone at least once. Shrink your browser
+window to phone width and look again: does the hero sentence still fit on
+two lines? Does the primary button stay visible without scrolling sideways?
+Does any text overlap? A layout that only works at desktop width is a
+layout that is only half finished. Fix the narrow view first — if it works
+narrow, it almost always works wide.
+
 ## 6. Build in this order
 
 1. **Skeleton first.** Layout blocks with placeholder text: header, hero,
@@ -217,6 +226,11 @@ an entry you have not opened and read yourself. The checks exist to catch
 exactly those shortcuts.
 
 ## 10. Common design mistakes (and the fix)
+
+Before you submit, run this five-point check on your own entry: one hero,
+one action, real content, readable type, generous space. If any point fails,
+fix that one thing — do not redesign the whole page the night before the
+deadline.
 
 | Mistake | What the judge sees | Fix |
 |---|---|---|
